@@ -1,5 +1,4 @@
 # SublimeLinter-soar
-=================================================
 SublimeLinter plugin for SQL by SOAR.
 
 ## Installation
@@ -13,8 +12,14 @@ Before using this plugin, you must ensure that `SOAR` is installed on your syste
 ```
 
 ### Plugin installation
-Open Sublim Text and click `Preference -> Package Settings -> SublimeLinter -> Settings`, set the config as following:
+At the first, you need clone the plugin into package folder.
+1. Open Sublime Text and click `Preferences -> Browse Packages...`
+1. Clone the repo into folder.
+```shell
+git clone https://github.com/liipx/SublimeLinter-soar.git
+```
 
+Then click `Preferences -> Package Settings -> SublimeLinter -> Settings`, set the config as following:
 ```
 // SublimeLinter Settings - User
 {
