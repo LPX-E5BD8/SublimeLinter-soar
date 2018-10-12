@@ -7,11 +7,8 @@ SublimeLinter plugin for SQL by SOAR.
 SublimeLinter 3 must be installed in order to use this plugin. If SublimeLinter 3 is not installed, please follow the instructions [here](http://sublimelinter.readthedocs.org/en/latest/installation.html).
 
 ### Linter installation
-Before using this plugin, you must ensure that `SOAR` is installed on your system. To install `SOAR`, do the following:
-
-```
-// TODO
-```
+Before using this plugin, you must ensure that `SOAR` is installed on your system.
+Please follow the instructions of [`SOAR`](https://github.com/XiaoMi/soar).
 
 ### Plugin installation
 At the first, you need clone the plugin into package folder.
