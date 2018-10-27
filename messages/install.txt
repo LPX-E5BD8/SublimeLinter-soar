@@ -1,6 +1,6 @@
-SublimeLinter-contrib-__linter__
+SublimeLinter-soar
 -------------------------------
-This linter plugin for SublimeLinter provides an interface to __linter__.
+This SQL linter plugin for SublimeLinter provides an interface to soar.
 
 For more information, please see:
-https://github.com/__user__/SublimeLinter-contrib-__linter__
+https://github.com/liipx/SublimeLinter-soar
